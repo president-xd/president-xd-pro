@@ -81,7 +81,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Spmay",
+    title: "Spamy",
     des: "A master Gmail Filtering tool, that has capabilites to analyze email headers, links, attachments, its sources and may more.",
     img: "/spamy.svg",
     iconLists: ["/py.svg"],
