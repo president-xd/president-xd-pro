@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Mohsin Mukhtiar a.k.a President, a Network Security Research Enthusiast, passionate Red Teamer and Program.
+            Hi! I&apos;m Mohsin Mukhtiar a.k.a President, a Network Security Research Enthusiast, passionate Red Teamer and Programmer.
             <br>
             
             </br>
